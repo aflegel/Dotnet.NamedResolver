@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.NamedResolver", "Dotnet.NamedResolver\Dotnet.NamedResolver.csproj", "{EBD616E5-6C1E-4F4A-B116-D34BD217DB4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet.NamedResolver.Tests", "Dotnet.NamedResolver.Tests\Dotnet.NamedResolver.Tests.csproj", "{53323F2D-C1B3-4506-AD95-CB4061416266}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A36C5EC1-BAA0-4C97-AEDB-AED59701F60D}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD616E5-6C1E-4F4A-B116-D34BD217DB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD616E5-6C1E-4F4A-B116-D34BD217DB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD616E5-6C1E-4F4A-B116-D34BD217DB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD616E5-6C1E-4F4A-B116-D34BD217DB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53323F2D-C1B3-4506-AD95-CB4061416266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53323F2D-C1B3-4506-AD95-CB4061416266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53323F2D-C1B3-4506-AD95-CB4061416266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53323F2D-C1B3-4506-AD95-CB4061416266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7357603D-6118-4FE7-BD60-C2AFBAD2A9B3}
+	EndGlobalSection
+EndGlobal
